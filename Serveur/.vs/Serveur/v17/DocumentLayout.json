@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\TokenDTO.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\TokenDTO.cs",
+              "RelativeToolTip": "Model\\DTO\\TokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:04:10.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Model\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:00:24.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T17:28:46.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T17:28:27.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T17:28:22.21Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
