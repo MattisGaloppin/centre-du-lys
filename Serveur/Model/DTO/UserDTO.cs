@@ -8,7 +8,7 @@
         /// <summary>
         /// Permet d'obtenir un id
         /// </summary>
-        public int Id { get; }
+        public int Id { get; set; }
 
         /// <summary>
         /// Permet d'obtenir ou de définir une Email

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Serveur.Controller.UserController",
+    "Method": "GetUsers",
+    "RelativePath": "User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
