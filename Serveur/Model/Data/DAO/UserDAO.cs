@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Data;
 using Serveur.Model.DTO;
+using SQLitePCL;
 
 namespace Serveur.Model.Data
 {
@@ -9,7 +10,7 @@ namespace Serveur.Model.Data
     /// </summary>
     public class UserDAO
     {
-        private readonly IDatabase _database;
+        private readonly IDatabase database;
 
         /// <summary>
         /// Constructeur de la classe UserDAO.
@@ -17,7 +18,8 @@ namespace Serveur.Model.Data
         /// <param name="database">Instance de l'interface IDatabase pour interagir avec la base de données.</param>
         public UserDAO(IDatabase database)
         {
-            _database = database;
+            this.database = database;
+            Batteries_V2.Init();
         }
 
         /// <summary>
@@ -26,8 +28,13 @@ namespace Serveur.Model.Data
         /// <returns>Une liste d'objets UserDTO représentant les utilisateurs.</returns>
         public List<UserDTO> GetAllUsers()
         {
-            const string query = "SELECT id, email, password FROM users";
-            DataTable result = _database.ExecuteQuery(query);
+            const string query = "SELECT Id, Email, HashPassword FROM Users";
+
+            //connexion a la bd
+            database.Connect();
+
+            //execution de la requete
+            DataTable result = database.ExecuteQuery(query);
 
             // Convertir le DataTable en une liste d'objets UserDTO.
             var users = new List<UserDTO>();
@@ -36,14 +43,14 @@ namespace Serveur.Model.Data
             {
                 var user = new UserDTO
                 {
-                    Id = row.Field<int>("id"),
-                    Email = row.Field<string>("email"),
-                    HashPassword = row.Field<string>("password")
+                    Id = row.Field<int>("Id"),
+                    Email = row.Field<string>("Email"),
+                    HashPassword = row.Field<string>("HashPassword")
                 };
 
                 users.Add(user);
             }
-
+            database.Disconnect();
             return users;
         }
     }

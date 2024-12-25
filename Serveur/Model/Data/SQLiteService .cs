@@ -1,4 +1,5 @@
 ﻿using Microsoft.Data.Sqlite;
+using Microsoft.Practices.EnterpriseLibrary.Data;
 using Serveur.Model.Data;
 using System.Data;
 
@@ -8,7 +9,8 @@ using System.Data;
 /// </summary>
 public class SQLiteService : IDatabase
 {
-    private readonly string _connectionString;
+    private readonly string connectionString;
+    private SqliteConnection connection;
 
     /// <summary>
     /// Initialise une nouvelle instance de la classe <see cref="SQLiteService"/>.
@@ -16,12 +18,12 @@ public class SQLiteService : IDatabase
     /// <param name="connectionString">La chaîne de connexion à la base de données SQLite.</param>
     public SQLiteService(string connectionString)
     {
-        _connectionString = connectionString;
+        this.connectionString = connectionString;
     }
 
     public DataTable ExecuteQuery(string query, SqliteParameter[] parameters = null)
     {
-        using (var connection = new SqliteConnection(_connectionString))
+        using (var connection = new SqliteConnection(connectionString))
         {
             connection.Open();
             using (var command = new SqliteCommand(query, connection))
@@ -41,10 +43,25 @@ public class SQLiteService : IDatabase
         }
     }
 
+    public void Connect()
+    {
+        this.connection = new SqliteConnection(connectionString);
+        connection.Open();
+    }
+
+    public void Disconnect()
+    {
+        if (connection != null && connection.State == ConnectionState.Open)
+        {
+            connection.Close();
+        }
+    }
+
+
 
     public int ExecuteNonQuery(string commandText, SqliteParameter[] parameters = null)
     {
-        using (var connection = new SqliteConnection(_connectionString))
+        using (var connection = new SqliteConnection(connectionString))
         {
             connection.Open();
             using (var command = new SqliteCommand(commandText, connection))

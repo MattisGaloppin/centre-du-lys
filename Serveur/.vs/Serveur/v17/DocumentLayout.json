@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\sqliteservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\sqliteservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -11,43 +39,19 @@
       "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\sqliteservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\sqliteservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,124 +69,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T15:35:45.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SQLiteService .cs",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\SQLiteService .cs",
-              "RelativeDocumentMoniker": "Model\\Data\\SQLiteService .cs",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\SQLiteService .cs",
-              "RelativeToolTip": "Model\\Data\\SQLiteService .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:16:09.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-22T17:28:27.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-22T17:28:22.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Microsoft.Managed.Core.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
-              "ViewState": "AgIAAFABAAAAAAAAAAAcwGIBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-12-25T21:27:18.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserDAO.cs",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DAO\\UserDAO.cs",
-              "RelativeDocumentMoniker": "Model\\Data\\DAO\\UserDAO.cs",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DAO\\UserDAO.cs",
-              "RelativeToolTip": "Model\\Data\\DAO\\UserDAO.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACcAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:30:39.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-22T17:28:46.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\serveur\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\serveur\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAswDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:37:47.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "IDatabase.cs",
               "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\IDatabase.cs",
               "RelativeDocumentMoniker": "Model\\Data\\IDatabase.cs",
               "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\IDatabase.cs",
               "RelativeToolTip": "Model\\Data\\IDatabase.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T15:15:27.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\serveur\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\serveur\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA+wCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:37:47.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "Model\\Managers\\UserManager.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Managers\\UserManager.cs",
+              "RelativeToolTip": "Model\\Managers\\UserManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vx0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:45:24.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DAO\\UserDAO.cs",
+              "RelativeDocumentMoniker": "Model\\Data\\DAO\\UserDAO.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DAO\\UserDAO.cs*",
+              "RelativeToolTip": "Model\\Data\\DAO\\UserDAO.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:30:39.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T17:28:22.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TokenDTO.cs",
               "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\TokenDTO.cs",
               "RelativeDocumentMoniker": "Model\\DTO\\TokenDTO.cs",
@@ -195,28 +160,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\UserDTO.cs",
               "RelativeDocumentMoniker": "Model\\DTO\\UserDTO.cs",
               "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\UserDTO.cs",
               "RelativeToolTip": "Model\\DTO\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T18:00:24.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserManager.cs",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Managers\\UserManager.cs",
-              "RelativeDocumentMoniker": "Model\\Managers\\UserManager.cs",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Managers\\UserManager.cs",
-              "RelativeToolTip": "Model\\Managers\\UserManager.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "SQLiteService .cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\SQLiteService .cs",
+              "RelativeDocumentMoniker": "Model\\Data\\SQLiteService .cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\SQLiteService .cs",
+              "RelativeToolTip": "Model\\Data\\SQLiteService .cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:45:24.22Z",
+              "WhenOpened": "2024-12-24T15:16:09.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T17:28:27.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "Model\\Data\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DatabaseSettings.cs",
+              "RelativeToolTip": "Model\\Data\\DatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:49:20.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T17:28:46.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.Managed.Core.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "ViewState": "AgIAAFABAAAAAAAAAAAcwGIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-25T21:27:18.998Z",
               "EditorCaption": ""
             }
           ]

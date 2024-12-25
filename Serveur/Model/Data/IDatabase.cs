@@ -19,7 +19,7 @@
         /// </param>
         /// <returns>Un <see cref="DataTable"/> contenant les résultats de la requête.</returns>
         /// <exception cref="Exception">Lancée si une erreur se produit lors de l'exécution de la requête.</exception>
-        DataTable ExecuteQuery(string query, SqliteParameter[] parameters = null);
+        public DataTable ExecuteQuery(string query, SqliteParameter[] parameters = null);
 
         /// <summary>
         /// Exécute une commande SQL qui ne retourne pas de résultats, comme INSERT, UPDATE ou DELETE.
@@ -31,7 +31,17 @@
         /// </param>
         /// <returns>Le nombre de lignes affectées par la commande.</returns>
         /// <exception cref="Exception">Lancée si une erreur se produit lors de l'exécution de la commande SQL.</exception>
-        int ExecuteNonQuery(string commandText, SqliteParameter[] parameters = null);
+        public int ExecuteNonQuery(string commandText, SqliteParameter[] parameters = null);
+
+        /// <summary>
+        /// se connecte a la bd
+        /// </summary>
+        public void Connect();
+
+        /// <summary>
+        /// se deconnecte de la bd
+        /// </summary>
+        public void Disconnect();
     }
 
 }
