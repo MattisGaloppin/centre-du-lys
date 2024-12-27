@@ -43,7 +43,6 @@ namespace Serveur.Model.Data
             {
                 var user = new UserDTO
                 {
-                    Id = row.Field<int>("Id"),
                     Email = row.Field<string>("Email"),
                     HashPassword = row.Field<string>("HashPassword")
                 };

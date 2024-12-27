@@ -61,8 +61,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -123,7 +127,7 @@
               "RelativeDocumentMoniker": "Model\\Data\\DAO\\UserDAO.cs",
               "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DAO\\UserDAO.cs",
               "RelativeToolTip": "Model\\Data\\DAO\\UserDAO.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAiwC8AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T15:30:39.362Z",
               "EditorCaption": ""
@@ -166,10 +170,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T18:00:24.642Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",

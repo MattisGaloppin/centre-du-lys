@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\sqliteservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\sqliteservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\sqliteservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\sqliteservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,25 +61,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:35:45.289Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
@@ -95,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\serveur\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -125,12 +108,29 @@
               "Title": "UserDAO.cs",
               "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DAO\\UserDAO.cs",
               "RelativeDocumentMoniker": "Model\\Data\\DAO\\UserDAO.cs",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DAO\\UserDAO.cs*",
-              "RelativeToolTip": "Model\\Data\\DAO\\UserDAO.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowB4AAAA5AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DAO\\UserDAO.cs",
+              "RelativeToolTip": "Model\\Data\\DAO\\UserDAO.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowCwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T15:30:39.362Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:35:45.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -147,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TokenDTO.cs",
               "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\TokenDTO.cs",
               "RelativeDocumentMoniker": "Model\\DTO\\TokenDTO.cs",
@@ -160,26 +160,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\UserDTO.cs",
               "RelativeDocumentMoniker": "Model\\DTO\\UserDTO.cs",
               "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\UserDTO.cs",
               "RelativeToolTip": "Model\\DTO\\UserDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T18:00:24.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "SQLiteService .cs",
               "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\SQLiteService .cs",
               "RelativeDocumentMoniker": "Model\\Data\\SQLiteService .cs",
               "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\SQLiteService .cs",
               "RelativeToolTip": "Model\\Data\\SQLiteService .cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowBMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T15:16:09.077Z",
               "EditorCaption": ""
