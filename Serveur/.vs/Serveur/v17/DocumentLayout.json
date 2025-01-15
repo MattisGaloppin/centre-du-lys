@@ -3,32 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\sqliteservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\sqliteservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\exceptions\\userwrongpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\exceptions\\userwrongpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\exceptions\\userdoesnotexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\exceptions\\userdoesnotexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\exceptions\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\exceptions\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\securepasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\securepasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\sqliteservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\sqliteservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -37,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\model\\data\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|solutionrelative:model\\data\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21ED8656-14F8-4A68-8B18-0EAA66C45881}|Serveur.csproj|c:\\users\\matga\\source\\repos\\projettonton\\serveur\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -65,102 +81,85 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\IDatabase.cs",
-              "RelativeDocumentMoniker": "Model\\Data\\IDatabase.cs",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\IDatabase.cs",
-              "RelativeToolTip": "Model\\Data\\IDatabase.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAYwCYAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UserWrongPassword.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Exceptions\\UserWrongPassword.cs",
+              "RelativeDocumentMoniker": "Model\\Exceptions\\UserWrongPassword.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Exceptions\\UserWrongPassword.cs",
+              "RelativeToolTip": "Model\\Exceptions\\UserWrongPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:15:27.204Z",
+              "WhenOpened": "2025-01-05T09:40:39.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "SecurePasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\SecurePasswordHasher.cs",
+              "RelativeDocumentMoniker": "Model\\SecurePasswordHasher.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\SecurePasswordHasher.cs",
+              "RelativeToolTip": "Model\\SecurePasswordHasher.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAASwEkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:27:42.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\serveur\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\serveur\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA+wCkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwF8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T15:37:47.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "UserManager.cs",
               "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Managers\\UserManager.cs",
               "RelativeDocumentMoniker": "Model\\Managers\\UserManager.cs",
               "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Managers\\UserManager.cs",
               "RelativeToolTip": "Model\\Managers\\UserManager.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAD4vx0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA6wFIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T15:45:24.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserDAO.cs",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DAO\\UserDAO.cs",
-              "RelativeDocumentMoniker": "Model\\Data\\DAO\\UserDAO.cs",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DAO\\UserDAO.cs",
-              "RelativeToolTip": "Model\\Data\\DAO\\UserDAO.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAowCwAAAARAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UserDoesNotExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Exceptions\\UserDoesNotExistsException.cs",
+              "RelativeDocumentMoniker": "Model\\Exceptions\\UserDoesNotExistsException.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Exceptions\\UserDoesNotExistsException.cs",
+              "RelativeToolTip": "Model\\Exceptions\\UserDoesNotExistsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:30:39.362Z",
+              "WhenOpened": "2025-01-05T09:02:03.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Title": "UserAlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Exceptions\\UserAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "Model\\Exceptions\\UserAlreadyExistsException.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Exceptions\\UserAlreadyExistsException.cs",
+              "RelativeToolTip": "Model\\Exceptions\\UserAlreadyExistsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:35:45.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-22T17:28:22.21Z",
+              "WhenOpened": "2024-12-27T16:34:09.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TokenDTO.cs",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\TokenDTO.cs",
-              "RelativeDocumentMoniker": "Model\\DTO\\TokenDTO.cs",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\TokenDTO.cs",
-              "RelativeToolTip": "Model\\DTO\\TokenDTO.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T18:04:10.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\UserDTO.cs",
               "RelativeDocumentMoniker": "Model\\DTO\\UserDTO.cs",
@@ -173,33 +172,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SQLiteService .cs",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\SQLiteService .cs",
-              "RelativeDocumentMoniker": "Model\\Data\\SQLiteService .cs",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\SQLiteService .cs",
-              "RelativeToolTip": "Model\\Data\\SQLiteService .cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAowBMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:16:09.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-22T17:28:27.84Z",
+              "WhenOpened": "2024-12-24T15:35:45.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "IDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\IDatabase.cs",
+              "RelativeDocumentMoniker": "Model\\Data\\IDatabase.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\IDatabase.cs",
+              "RelativeToolTip": "Model\\Data\\IDatabase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:15:27.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DAO\\UserDAO.cs",
+              "RelativeDocumentMoniker": "Model\\Data\\DAO\\UserDAO.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DAO\\UserDAO.cs",
+              "RelativeToolTip": "Model\\Data\\DAO\\UserDAO.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwIEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:30:39.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "DatabaseSettings.cs",
               "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\DatabaseSettings.cs",
               "RelativeDocumentMoniker": "Model\\Data\\DatabaseSettings.cs",
@@ -207,12 +219,60 @@
               "RelativeToolTip": "Model\\Data\\DatabaseSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T22:49:20.903Z",
+              "WhenOpened": "2024-12-25T22:49:20.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\TokenDTO.cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\DTO\\TokenDTO.cs",
+              "RelativeToolTip": "Model\\DTO\\TokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:04:10.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
+              "Title": "SQLiteService .cs",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\SQLiteService .cs",
+              "RelativeDocumentMoniker": "Model\\Data\\SQLiteService .cs",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Model\\Data\\SQLiteService .cs",
+              "RelativeToolTip": "Model\\Data\\SQLiteService .cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:16:09.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T17:28:22.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T17:28:27.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\matga\\source\\repos\\projetTonton\\Serveur\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -220,12 +280,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAwAAAAAAAAAAAAqwBYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-22T17:28:46.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T17:28:46.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Microsoft.Managed.Core.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
@@ -233,8 +292,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
               "ViewState": "AgIAAFABAAAAAAAAAAAcwGIBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-12-25T21:27:18.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T21:27:18.998Z"
             }
           ]
         }
